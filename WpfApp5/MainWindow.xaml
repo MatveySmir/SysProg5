@@ -1,0 +1,31 @@
+﻿<Window x:Class="WpfApp5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" SizeChanged="Window_SizeChanged" Closing="Window_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="15" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="15" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="5"/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Column="1" Grid.Row="1" >
+            <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" >
+                <Button x:Name="StartFirstThreadButton" Content="Запустить" 
+                        Width="100" Click="StartFirstThreadButton_Click"/>
+                <Rectangle Width="200" />
+                <Button x:Name="StartSecondThreadButton" Content="Запустить" 
+                        Width="100" Click="StartSecondThreadButton_Click"/>
+            </StackPanel>
+            <StackPanel />
+        </DockPanel>
+    </Grid>
+</Window>

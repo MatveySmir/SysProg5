@@ -1,0 +1,30 @@
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\WpfApp5\obj\Debug\WpfApp5.csprojAssemblyReference.cache
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\WpfApp5\obj\Debug\MainWindow.g.cs
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\WpfApp5\obj\Debug\App.g.cs
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\WpfApp5\bin\Debug\WpfApp5.exe.config
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\WpfApp5\bin\Debug\WpfApp5.exe
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\WpfApp5\bin\Debug\WpfApp5.pdb
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\WpfApp5\obj\Debug\MainWindow.baml
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\WpfApp5\obj\Debug\WpfApp5.g.resources
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.cache
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\WpfApp5\obj\Debug\WpfApp5.csproj.CoreCompileInputs.cache
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\WpfApp5\obj\Debug\WpfApp5.exe
+D:\3is2\Smirnov\3is2\Смирнов М\ООП\WpfApp5\obj\Debug\WpfApp5.pdb
+C:\Учеба\Прога\Visual\ООП\WpfApp5\bin\Debug\WpfApp5.exe.config
+C:\Учеба\Прога\Visual\ООП\WpfApp5\bin\Debug\WpfApp5.exe
+C:\Учеба\Прога\Visual\ООП\WpfApp5\bin\Debug\WpfApp5.pdb
+C:\Учеба\Прога\Visual\ООП\WpfApp5\obj\Debug\WpfApp5.csproj.AssemblyReference.cache
+C:\Учеба\Прога\Visual\ООП\WpfApp5\obj\Debug\MainWindow.g.cs
+C:\Учеба\Прога\Visual\ООП\WpfApp5\obj\Debug\App.g.cs
+C:\Учеба\Прога\Visual\ООП\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+C:\Учеба\Прога\Visual\ООП\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+C:\Учеба\Прога\Visual\ООП\WpfApp5\obj\Debug\MainWindow.baml
+C:\Учеба\Прога\Visual\ООП\WpfApp5\obj\Debug\WpfApp5.g.resources
+C:\Учеба\Прога\Visual\ООП\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+C:\Учеба\Прога\Visual\ООП\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.cache
+C:\Учеба\Прога\Visual\ООП\WpfApp5\obj\Debug\WpfApp5.csproj.CoreCompileInputs.cache
+C:\Учеба\Прога\Visual\ООП\WpfApp5\obj\Debug\WpfApp5.exe
+C:\Учеба\Прога\Visual\ООП\WpfApp5\obj\Debug\WpfApp5.pdb
